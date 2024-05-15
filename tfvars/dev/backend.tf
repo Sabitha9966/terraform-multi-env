@@ -1,5 +1,3 @@
-
-
 bucket = "purvanshi-dev"
 key    = "multi-env-tfvars"
 region = "us-east-1"

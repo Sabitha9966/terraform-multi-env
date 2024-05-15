@@ -24,10 +24,11 @@ variable "common_tags" {
 
 # r53 variables
 
+variable "domain_name" {
+    default = "purvanshi.online"
+}   
+
 variable "zone_id" {
     default = "Z087006736KCEHCWBC7BJ"
 }
 
-variable "domain_name" {
-    default = "purvanshi.online"
-}   
